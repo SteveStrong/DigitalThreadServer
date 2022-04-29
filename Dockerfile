@@ -24,5 +24,5 @@ ENTRYPOINT ["dotnet", "DigitalThreadServer.dll"]
 
 # az acr login --name iobtassets
 # docker build -t dts -f Dockerfile .
-# docker tag dts iobtassets.azurecr.io/digital-thread-server:v1.0.2
-# docker push iobtassets.azurecr.io/digital-thread-server:v1.0.2
+# docker tag dts iobtassets.azurecr.io/digital-thread-server:v1.0.3
+# docker push iobtassets.azurecr.io/digital-thread-server:v1.0.3

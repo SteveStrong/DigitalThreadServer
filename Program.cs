@@ -27,6 +27,8 @@ builder.Services.AddSwaggerGen();
 var provider = new FileExtensionContentTypeProvider();
 provider.Mappings[".obj"] = "model/obj";
 provider.Mappings[".mtl"] = "model/mtl";
+provider.Mappings[".fbx"] = "model/fbx";
+provider.Mappings[".gltf"] = "model/gltf";
 
 
 var app = builder.Build();
