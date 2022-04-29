@@ -22,7 +22,7 @@ COPY --from=publish /app/publish .
 ENTRYPOINT ["dotnet", "DigitalThreadServer.dll"]
 
 
-#  az acr login --name laweb700
+# az acr login --name iobtassets
 # docker build -t dts -f Dockerfile .
-# docker tag dts laweb700.azurecr.io/dts:v1.0.0
-# docker push laweb700.azurecr.io/dts:v1.0.0
+# docker tag dts iobtassets.azurecr.io/digital-thread-server:v1.0.2
+# docker push iobtassets.azurecr.io/digital-thread-server:v1.0.2
