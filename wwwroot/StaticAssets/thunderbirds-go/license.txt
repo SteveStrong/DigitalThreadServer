@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gerry Anderson's Thunderbird IV
+* source:	https://sketchfab.com/3d-models/gerry-andersons-thunderbird-iv-476f49fe0ca840dcab1b11da3c26fe1c
+* author:	Ralph's Workshop (https://sketchfab.com/RalphEdenbag)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gerry Anderson's Thunderbird IV" (https://sketchfab.com/3d-models/gerry-andersons-thunderbird-iv-476f49fe0ca840dcab1b11da3c26fe1c) by Ralph's Workshop (https://sketchfab.com/RalphEdenbag) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
